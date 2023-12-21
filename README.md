@@ -1,14 +1,28 @@
-### Hi, I'm Edwar 👋👨🏻‍💻
-```js
-const Edwar-Forero = {
-  pronouns: "he" | "him",
-  code: [Python, Java, C#],
-}
-```
+<h1 align="center">Hi 👋, I'm Edwar-Forero</h1>
+<h3 align="center">A passionate frontend developer from Tuluá, Colombia</h3>
 
-You can find me 🗺️:
-- [Instagram](https://www.instagram.com/edwar_forero_7)
-- [Facebook](https://www.facebook.com/edwaryamir.foreroblanco)
-- [Linkedin](https://www.linkedin.com/in/edwar-forero-blanco-993a96294/)
+- 🌱 I’m currently learning **Java**
 
-[![Edwar-Forero GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwar-Forero)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **Java, Python**
+
+- 📫 How to reach me **foreroblancoedwaryamir@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/edwar-forero-blanco-993a96294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwar-forero-blanco-993a96294/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/edwaryamir.foreroblanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/edwaryamir.foreroblanco" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/edwar_forero_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edwar_forero_7" height="30" width="40" /></a>
+<a href="https://discord.gg/forero777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="forero777" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwar-forero&show_icons=true&locale=en&layout=compact" alt="edwar-forero" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwar-forero&show_icons=true&locale=en" alt="edwar-forero" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwar-forero&" alt="edwar-forero" /></p>
