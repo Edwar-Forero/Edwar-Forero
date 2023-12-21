@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/edwar-forero-blanco-993a96294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwar-forero-blanco-993a96294/" height="30" width="40" /></a>
 <a href="https://fb.com/edwaryamir.foreroblanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edwaryamir.foreroblanco" height="30" width="40" /></a>
-<a href="https://instagram.com/edwar_forero_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwar_forero_7" height="30" width="40" /></a>
+<a href="[https://instagram.com/edwar_forero_7](https://www.instagram.com/edwar_forero_7)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwar_forero_7" height="30" width="40" /></a>
 <a href="https://discord.gg/forero777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="forero777" height="30" width="40" /></a>
 </p>
 
