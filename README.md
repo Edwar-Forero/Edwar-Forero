@@ -34,7 +34,3 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwar-forero&show_icons=true&locale=en&layout=compact" alt="edwar-forero" />
 </p>
-
-<p align="left">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwar-forero&show_icons=true&locale=en" alt="edwar-forero" />
-</p>
