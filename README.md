@@ -38,7 +38,3 @@
 <p align="left">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwar-forero&show_icons=true&locale=en" alt="edwar-forero" />
 </p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwar-forero&" alt="edwar-forero" />
-</p>
