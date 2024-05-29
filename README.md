@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwar-Forero</h1>
+<h1 align="center">Hi 👋, I'm Edwar Forero</h1>
 <h3 align="center">A passionate Back-end developer from Tuluá, Colombia</h3>
 
 - 🌱 I’m currently learning **Java**
