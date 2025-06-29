@@ -1,16 +1,30 @@
-<h1 align="center">
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="400" 
+    style="border-radius: 15px;" 
+  />
+</p>
+
+<h1 align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> ¡Hola! Soy Edwar Forero  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 <h3 align="center">Desarrollador Backend en formación — Tuluá, Colombia </h3>
 
-<div align="center">
-  <img src="https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" alt="coding" align="right" width="280" />
+<div align="center" >
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" align="right" width="350" />
 </div>
 
-🎓 Tecnólogo en Desarrollo de Software y estudiante de octavo semestre de Ingeniería en Sistemas.  
-🚀 Apasionado por el desarrollo backend, automatización de despliegues y la construcción de soluciones modernas usando herramientas como Docker, Kubernetes y GitHub Actions.  
-🔧 Con experiencia en lenguajes como Java, Python, C#, Scala y Racket.  
-📊 Interesado en aprender tecnologías de nube y mejorar continuamente en DevOps y arquitecturas modernas.
+🎓  Tecnólogo en Desarrollo de Software y estudiante de octavo 
+  semestre de Ingeniería en Sistemas.
+
+🚀 Apasionado por el desarrollo backend, automatización de despliegues 
+y la construcción de soluciones modernas usando herramientas como Docker, Kubernetes y GitHub Actions.
+
+🔧Con experiencia en lenguajes como Java, Python, C#, Scala y Racket.
+
+📊 Interesado en aprender tecnologías de nube y mejorar continuamente 
+en DevOps y arquitecturas modernas.
 
 ### 🌐 Conéctate conmigo 📬
 
