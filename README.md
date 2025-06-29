@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> ¡Hola! Soy Edwar Forero  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h3 align="center">Desarrollador Backend en formación — Tuluá, Colombia 🇨🇴</h3>
+<h3 align="center">Desarrollador Backend en formación — Tuluá, Colombia </h3>
 
 <div align="center">
   <img src="https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" alt="coding" align="right" width="280" />
