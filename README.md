@@ -48,56 +48,43 @@ en DevOps y arquitecturas modernas.
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://dotnet.microsoft.com/es-es/languages/csharp">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" alt="Scala" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/librariesio/pictogram/master/vendor/assets/images/racket/racket.png" alt="Racket" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://github.com/Edwar-Forero" title="Mi perfil en GitHub">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
+  </a>&nbsp;&nbsp;&nbsp;  
 </p>
 
 ### 📈 Estadísticas
