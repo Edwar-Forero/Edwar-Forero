@@ -15,16 +15,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" align="right" width="350" />
 </div>
 
-🎓  Tecnólogo en Desarrollo de Software y estudiante de octavo 
-  semestre de Ingeniería en Sistemas.
+🎓 Tecnólogo en Desarrollo de Software y estudiante de noveno semestre de Ingeniería en Sistemas.
 
-🚀 Apasionado por el desarrollo backend, automatización de despliegues 
-y la construcción de soluciones modernas usando herramientas como Docker, Kubernetes y GitHub Actions.
+🤖 Interesado en el desarrollo de agentes de inteligencia artificial, modelos de IA, sistemas basados en RAG y servidores MCP (Model Context Protocol).
 
-🔧Con experiencia en lenguajes como Java, Python, C#, Scala y Racket.
+📊 Enfocado en análisis de datos, automatización de procesos y construcción de soluciones inteligentes con Python, FastAPI y arquitecturas escalables.
 
-📊 Interesado en aprender tecnologías de nube y mejorar continuamente 
-en DevOps y arquitecturas modernas.
+🚀 Actualmente fortaleciendo conocimientos en Machine Learning, NLP y sistemas multiagente.
 
 ### 🌐 Conéctate conmigo 📬
 
